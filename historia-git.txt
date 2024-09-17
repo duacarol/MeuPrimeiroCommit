@@ -1,0 +1,5 @@
+O Git surgiu em 2005, criado por Linus Torvalds, o mesmo criador do Linux, como uma solução para problemas que ele enfrentava no gerenciamento do desenvolvimento do kernel do Linux. Antes do Git, o projeto usava um sistema de controle de versão chamado BitKeeper, mas conflitos com os desenvolvedores do BitKeeper levaram à necessidade de uma nova ferramenta. Foi então que Torvalds decidiu criar o Git.
+
+O propósito do Git era ser rápido, distribuído (cada desenvolvedor teria uma cópia completa do repositório) e seguro, para manter a integridade do código e permitir o trabalho simultâneo de muitos colaboradores. Isso trouxe uma grande vantagem para equipes de desenvolvimento, que podiam criar ramificações (branches) sem comprometer o código principal e integrar mudanças de forma controlada.
+
+A filosofia principal do Git é a de permitir que desenvolvedores trabalhem de forma independente, mas com a capacidade de compartilhar e integrar suas mudanças de maneira eficiente. Hoje, o Git é a ferramenta de controle de versão mais popular no mundo, usada em projetos pequenos e grandes, incluindo o próprio kernel do Linux.
